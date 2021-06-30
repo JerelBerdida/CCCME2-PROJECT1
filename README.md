@@ -1,1 +1,1 @@
-This will be the main or master branch of our group. This branch will serve as the head branch wherein we will merge different codes from different branches in order for our calculator as a whole to function properly.
+This will be the GUI branch ou our repository. This branch will have codes that will display button of calculator and wiidget.

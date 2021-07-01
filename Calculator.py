@@ -39,3 +39,9 @@ def equal():
   
 calcu.mainloop()
 
+button1 = Button(backg,font= ("arial",15),text=' 1 ',bd=1,relief="sunken",fg='black', bg='white',command=lambda: Click("1"), height=3, width=8)
+button2 = Button(backg,font= ("arial",15),text=' 2 ',bd=1,relief="sunken",fg='black', bg='white',command=lambda: Click("2"), height=3, width=8)
+button3 = Button(backg,font= ("arial",15),text=' 3 ',bd=1,relief="sunken",fg='black', bg='white',command=lambda: Click("3"), height=3, width=8)
+button4 = Button(backg,font= ("arial",15),text=' 4 ',bd=1,relief="sunken",fg='black', bg='white',command=lambda: Click("4"), height=3, width=8)
+button5 = Button(backg,font= ("arial",15),text=' 5 ',bd=1,relief="sunken",fg='black', bg='white',command=lambda: Click("5"), height=3, width=8)
+
